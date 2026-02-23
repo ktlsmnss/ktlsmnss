@@ -1,11 +1,10 @@
 # 🎀 Kate Meneses 🎀
 
-💗 ─── ୨୧ ─── 💗 ─── ୨୧ ─── 💗
+💗 ✧ ─── ✧ 💗 ✧ ─── ✧ 💗
 
-Backend Developer | Database Enthusiast  
-Building Pretty & Clean Systems  
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=false&vCenter=true&width=500&lines=Backend+Developer;Database+Enthusiast;Building+Pretty+Systems)
 
-💗 ─── ୨୧ ─── 💗 ─── ୨୧ ─── 💗
+💗 ✧ ─── ✧ 💗 ✧ ─── ✧ 💗
 
 ---
 
@@ -16,8 +15,6 @@ Building Pretty & Clean Systems
 💻 Backend developer in progress  
 🌸 Currently building a Job Finder Web App  
 
-I love making systems organized, neat, and just a little ✨ magical ✨
-
 ---
 
 ## 💗 Tech Stack
@@ -26,7 +23,9 @@ I love making systems organized, neat, and just a little ✨ magical ✨
 **Frontend:** HTML, CSS, JavaScript  
 **Tools:** Git, GitHub  
 
-![Tech Stack](https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github&theme=light)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github&theme=light&animation=true" />
+</p>
 
 ---
 
