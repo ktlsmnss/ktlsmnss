@@ -6,14 +6,11 @@
 
 💗 ✧ ─── ✧ 💗 ✧ ─── ✧ 💗
 
----
-
 ## 🎀 About Me
 
 💌 BSIT Student  
-🗄️ Passionate about relational databases  
+🌸 Passionate about relational databases  
 💻 Backend developer in progress  
-🌸 Currently building a Job Finder Web App  
 
 ---
 
@@ -37,5 +34,3 @@
 ✨ Data-driven web applications  
 
 ---
-
-💗 Pretty in Pink | Powerful in Backend 💗
