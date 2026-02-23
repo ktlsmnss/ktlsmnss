@@ -1,50 +1,60 @@
-<!-- 🎀 Cute Pink Header 🎀 -->
+<!-- 🎀 RIBBON HEADER 🎀 -->
 <h1 align="center">🎀 Kate Meneses 🎀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&lines=Backend+Developer+💗;Database+Lover+🗄️;Laravel+Girl+🎀;Building+Pretty+Systems+✨" />
+  💗 ─── ୨୧ ─── 💗 ─── ୨୧ ─── 💗
 </p>
 
 <p align="center">
-  💗 🌸 🎀 🌷 💕 🌸 🎀 🌷 💗
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFB6C1&center=true&vCenter=true&lines=Backend+Developer+💗;Database+Princess+🗄️;Laravel+Lover+🎀;Building+Pretty+Systems+✨" />
+</p>
+
+<p align="center">
+  💗 ─── ୨୧ ─── 💗 ─── ୨୧ ─── 💗
 </p>
 
 ---
 
-## 💖 About Me
+## 🎀 About Me
 
-🎀 BSIT Student  
-💻 Backend Developer in Progress  
-🗄️ I love designing relational databases  
+💌 BSIT Student  
+🗄️ In love with relational databases  
+💻 Backend developer in progress  
 🌸 Currently building a Job Finder Web App  
-💕 Turning ideas into structured, organized systems  
+🎀 I enjoy structuring clean systems & organized logic  
+
+I believe pretty code can also be powerful 💕
 
 ---
 
-## 🎀 Tech Stack
+## 💗 Tech Stack
+
+<p align="center">
+  🎀 PHP & Laravel  
+  💕 MySQL  
+  🌸 HTML / CSS / JavaScript  
+  💗 Git & GitHub  
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,git,github&theme=light" />
 </p>
 
-<p align="center">
-  💗 💕 💗 💕 💗 💕 💗 💕 💗
-</p>
-
 ---
 
-## 🌸 GitHub Stats
+## 🌷 What I Love Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ktlsmnss&show_icons=true&theme=rose_pine&title_color=FF69B4&icon_color=FF69B4&text_color=FF69B4&bg_color=FFF0F5&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktlsmnss&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FF69B4&bg_color=FFF0F5&hide_border=true" />
-</p>
+💖 Backend systems  
+🗄️ Database relationships & ERDs  
+🔐 Authentication systems  
+✨ Data-driven web applications  
 
 ---
 
 <p align="center">
-  🎀 💕 Pretty in Pink. Powerful in Backend. 💕 🎀
+  💗 ୨୧ Pretty in Pink ୨୧ Powerful in Backend ୨୧ 💗
+</p>
+
+<p align="center">
+  🌸 🎀 💕 🌷 💗 🌸 🎀 💕 🌷 💗
 </p>
