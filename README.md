@@ -1,11 +1,10 @@
 # 🎀 Kate Meneses 🎀
 
-Backend Developer | Database Enthusiast  
-Building Pretty & Clean Systems  
+Backend Developer | Database Enthusiast   
 
 ## 🎀 About Me
 
-💌 BSIT Student  
+💌 BSCS Student  
 🌸 Passionate about relational databases  
 💻 Backend developer in progress  
 
