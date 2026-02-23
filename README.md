@@ -1,11 +1,7 @@
 # 🎀 Kate Meneses 🎀
 
-![Pink Ribbon](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 Backend Developer | Database Enthusiast  
 Building Pretty & Clean Systems  
-
-![Pink Waves](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ## 🎀 About Me
 
