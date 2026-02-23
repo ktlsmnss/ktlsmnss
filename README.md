@@ -1,10 +1,11 @@
 # 🎀 Kate Meneses 🎀
 
-💗 ✧ ─── ✧ 💗 ✧ ─── ✧ 💗
+![Ribbon Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=false&vCenter=true&width=500&lines=Backend+Developer;Database+Enthusiast;Building+Pretty+Systems)
+Backend Developer | Database Enthusiast  
+Building Pretty & Clean Systems
 
-💗 ✧ ─── ✧ 💗 ✧ ─── ✧ 💗
+![Hearts Divider](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ## 🎀 About Me
 
