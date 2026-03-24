@@ -16,8 +16,10 @@ Backend Developer | Database Enthusiast
 **Frontend:** HTML, CSS, JavaScript  
 **Tools:** Git, GitHub  
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg." width ="30" height ="30" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+          width ="30" height ="30" />
+  &ensp;
           
 </p>
 
