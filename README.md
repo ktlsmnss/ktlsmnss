@@ -1,12 +1,10 @@
-# 🎀 Kate Meneses 🎀
-
-Backend Developer | Database Enthusiast   
+# 🎀 Kate Meneses 🎀 
 
 ## 🎀 About Me
 
 💌 BSCS Student  
-🌸 Passionate about relational databases  
-💻 Backend developer in progress  
+🌸 Passionate about relational databases and UI designing 
+💻 Fullstack developer in progress  
 
 ---
 
@@ -69,7 +67,7 @@ Backend Developer | Database Enthusiast
 
 💖 Backend systems  
 🗄️ Database relationships & ERDs  
-🔐 Authentication systems  
+🔐 UI/UX Design
 ✨ Data-driven web applications  
 
 ---
