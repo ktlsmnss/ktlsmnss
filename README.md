@@ -17,7 +17,8 @@ Backend Developer | Database Enthusiast
 **Tools:** Git, GitHub  
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,html,css,js,git,github&theme=light&animation=true" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
 </p>
 
 ---
