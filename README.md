@@ -4,7 +4,7 @@
 
 💌 BSCS Student  
 🌸 Passionate about relational databases and UI designing 
-💻 Fullstack developer in progress  
+💻 Full-stack developer in progress  
 
 ---
 
