@@ -50,7 +50,7 @@
 
 ## 🌷 What I Love Building
 
-💖 Backend systems  
+💖 Frontend   
 🗄️ Database relationships & ERDs  
 🔐 UI/UX Design  
 ✨ Data-driven web applications  
